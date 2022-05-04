@@ -1,3 +1,26 @@
 p {
     color: red;
 }
+img{
+    padding: 30px 30px;
+    border: 2px solid #00f
+}
+body *{
+    background-color: aqua;
+    border: 1px solid red;
+    width: 70%;
+    align-items: center;
+}
+
+div.container{
+    
+    background-color: bisque;
+    align-items: center;
+    width: 400px;
+    border: 2px dotted dodgerblue;
+}
+
+section{
+    align-content: center;
+    width: 50%;
+}
